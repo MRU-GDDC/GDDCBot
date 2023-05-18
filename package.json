@@ -1,0 +1,19 @@
+{
+  "name": "gdddc-bot",
+  "version": "1.0.0",
+  "description": "A bot to help users of Mount Royal University's Game Design and Development Club with tasks such as reminders, notifications, etc... ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "schedule",
+    "reminder",
+    "gamedev"
+  ],
+  "author": "matthew_hre",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.11.0"
+  }
+}
